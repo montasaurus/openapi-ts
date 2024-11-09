@@ -1,5 +1,15 @@
 # @hey-api/openapi-ts
 
+## 0.55.2
+
+### Patch Changes
+
+- [#1253](https://github.com/hey-api/openapi-ts/pull/1253) [`01dee3d`](https://github.com/hey-api/openapi-ts/commit/01dee3df879232939e43355231147b3d910fb482) Thanks [@mrlubos](https://github.com/mrlubos)! - fix: update sponsorship links
+
+- [#1266](https://github.com/hey-api/openapi-ts/pull/1266) [`d60d260`](https://github.com/hey-api/openapi-ts/commit/d60d260342ff3013c2e228151e9b897224eb89cc) Thanks [@mrlubos](https://github.com/mrlubos)! - fix: correctly generate array when items are a oneOf array with length 1
+
+- [#1265](https://github.com/hey-api/openapi-ts/pull/1265) [`691cdc2`](https://github.com/hey-api/openapi-ts/commit/691cdc28b6ad5bc1a38e1ae9eb134a2b41d4ead8) Thanks [@mrlubos](https://github.com/mrlubos)! - fix: handle non-exploded array query parameters
+
 ## 0.55.1
 
 ### Patch Changes
