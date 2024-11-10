@@ -7,6 +7,7 @@ import type {
 
 export const CLIENTS = [
   '@hey-api/client-axios',
+  '@hey-api/client-expo',
   '@hey-api/client-fetch',
   'legacy/angular',
   'legacy/axios',
